@@ -13,7 +13,7 @@ Install the dependencies and create an .env.local file.
 
 > npm i <br />
 > cp .env .env.local <br />
-> Edit the API_KEY to one retrieved from the Radio Manager application.
+> Edit the API_KEY to one retrieved from the Radio Manager application. <br />
 > npm run dev
 
 ## Building service code
