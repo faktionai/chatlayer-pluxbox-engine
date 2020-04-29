@@ -1,0 +1,10 @@
+.git
+.gitignore
+node_modules
+build
+tmp
+dist
+distserver
+test-reports
+coverage
+.scannerwork
